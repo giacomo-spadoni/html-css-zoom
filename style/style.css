@@ -41,7 +41,7 @@ body {
 main {
     padding: 0.3rem 0;
     width: 100%;
-    height: 90%;
+    height: 92%;
 }
 
 .settings div {
@@ -80,7 +80,7 @@ main {
 
 footer {
     width: 100%;
-    height: 10%;
+    height: 8%;
     background-color: rgb(53, 53, 53);
     font-size: .6rem;
     color: white;
@@ -93,15 +93,15 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 10vh;
+    height: 8vh;
 }
 
 .big {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 .close {
-    height: 10vh;
+    height: 8vh;
     background-color: rgb(90, 90, 90);
     color: red;
     display: flex;
